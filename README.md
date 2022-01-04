@@ -7,4 +7,7 @@ Uma aplicação simples que análise os dados de venda e automaticamente envia u
 
 ![Aplicativo_de_enviar_relatorios_2](https://user-images.githubusercontent.com/74032693/148112056-1c1607e8-c462-458b-b76a-fc785f2779c8.png)
 
+![Aplicativo_de_enviar_relatorios_3](https://user-images.githubusercontent.com/74032693/148112178-753afc71-e901-45a0-89c7-74d6dafd1c1a.png)
+
+
 
