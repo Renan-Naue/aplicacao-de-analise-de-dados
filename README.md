@@ -3,8 +3,6 @@ Uma aplicação simples que análise os dados de venda e automaticamente envia u
 
 
 # Segue as imagens do Email enviado.
+![Aplicativo_de_enviar_relatorios](https://user-images.githubusercontent.com/74032693/148111826-c2569332-26c9-40f4-b98b-dd35659ac942.png)
 
 
-<div align="center">
-<img src="https://desblogada.files.wordpress.co..." width="0px"/> 
-</div>
