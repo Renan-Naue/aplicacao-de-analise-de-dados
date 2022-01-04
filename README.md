@@ -5,6 +5,6 @@ Uma aplicação simples que análise os dados de venda e automaticamente envia u
 # Segue as imagens do Email enviado.
 
 
-div align="center"
-img src="https://desblogada.files.wordpress.co..." width="0px" /
-/div
+<div align="center">
+<img src="https://desblogada.files.wordpress.co..." width="0px"/> 
+</div>
